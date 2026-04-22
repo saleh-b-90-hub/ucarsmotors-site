@@ -1,0 +1,12 @@
+---
+cwd: "C:\\Users\\saleh\\.cursor\\projects\\empty-window"
+command: "Write-Output 'background-test'"
+started_at: 2026-04-22T22:05:58.879Z
+running_for_ms: 1        
+---
+
+---
+error: "Sandbox policy 'workspace_readwrite' is not supported on this system. Ensure the sandbox helper binary is available, or use 'insecure_none'. Reason: Windows sandbox helper only provides network proxy, not filesystem isolation"
+elapsed_ms: 2
+ended_at: 2026-04-22T22:05:58.881Z
+---

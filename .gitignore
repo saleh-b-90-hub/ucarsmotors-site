@@ -1,0 +1,6 @@
+.vercel/
+node_modules/
+*.log
+_gitlog.txt
+test_echo.txt
+.DS_Store

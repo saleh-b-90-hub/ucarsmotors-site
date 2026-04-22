@@ -1,0 +1,6 @@
+---
+pid: 11460
+cwd: |
+  C:\Users\saleh
+---
+PS C:\Users\saleh>

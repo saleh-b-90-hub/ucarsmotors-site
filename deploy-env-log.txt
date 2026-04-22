@@ -1,0 +1,574 @@
+﻿=== winget install Git.Git ===
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  1024 KB / 2.85 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  2.00 MB / 2.85 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûê  2.85 MB / 2.85 MB
+                                                                                                                        
+
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  0%
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  0%
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  1%
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  2%
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  3%
+  ÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  4%
+  ÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  5%
+  ÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  6%
+  ÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  7%
+  ÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  8%
+  ÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  9%
+  ÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  10%
+  ÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  11%
+  ÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  12%
+  ÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  13%
+  ÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  14%
+  ÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  15%
+  ÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  16%
+  ÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  17%
+  ÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  18%
+  ÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  19%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  20%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  21%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  22%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  23%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  24%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  25%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  26%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  27%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  28%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  28%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  30%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  31%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  32%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  33%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  34%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  35%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  36%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  37%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  38%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  39%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  40%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  41%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  42%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  43%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  44%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  45%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  46%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  47%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  48%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  49%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  50%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  51%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  52%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  53%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  54%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  55%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  56%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  56%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  57%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  59%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  60%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  61%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  68%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  70%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  81%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆ  91%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆ  91%
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûê  100%
+                                                                                                                        
+
+   - 
+   \ 
+                                                                                                                        
+Found Git [Git.Git] Version 2.54.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-64-bit.exe
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  1024 KB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  9.00 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  18.0 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  26.0 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  36.1 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  45.1 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆ  53.1 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆ  61.1 MB / 62.1 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûê  62.1 MB / 62.1 MB
+Successfully verified installer hash
+Starting package install...
+The installer will request to run as administrator. Expect a prompt.
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+                                                                                                                        
+Successfully installed
+=== winget install GitHub.cli ===
+
+   - 
+   \ 
+                                                                                                                        
+Found GitHub CLI [GitHub.cli] Version 2.91.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/cli/cli/releases/download/v2.91.0/gh_2.91.0_windows_amd64.msi
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  32.0 KB / 14.0 MB
+  ÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  1.03 MB / 14.0 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  7.03 MB / 14.0 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆ  12.0 MB / 14.0 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûê  14.0 MB / 14.0 MB
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+Successfully installed
+=== git --version ===
+git version 2.54.0.windows.1
+=== cwd ===
+C:\Users\saleh\.cursor\projects\empty-window
+=== git init / add / commit / remote / push ===
+Initialized empty Git repository in C:/Users/saleh/.cursor/projects/empty-window/.git/
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'PUSH-TO-GITHUB.ps1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'about.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'agent-transcripts/12267072-f2e8-48eb-9946-e58b84c1be90/12267072-f2e8-48eb-9946-e58b84c1be90.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'agent-transcripts/12267072-f2e8-48eb-9946-e58b84c1be90/subagents/78f0ff27-4dd8-45e3-a67c-11067484e1b8.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'assets/css/styles.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'assets/img/logo.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'assets/js/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'cars.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'contact.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'deploy-env.ps1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-app-control/INSTRUCTIONS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-app-control/SERVER_METADATA.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-app-control/tools/create_project.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-app-control/tools/move_agent_to_root.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/INSTRUCTIONS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/SERVER_METADATA.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_click.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_console_messages.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_drag.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_fill.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_fill_form.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_get_bounding_box.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_handle_dialog.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_highlight.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_hover.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_navigate.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_navigate_back.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_network_requests.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_press_key.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_profile_start.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_profile_stop.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_resize.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_scroll.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_search.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_select_option.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_snapshot.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_tabs.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_take_screenshot.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_type.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mcps/cursor-ide-browser/tools/browser_wait_for.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'parts.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'robots.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/verify-build.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'services.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'sitemap.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/3.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'terminals/401538.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vercel.json', LF will be replaced by CRLF the next time Git touches it
+Author identity unknown
+System.Management.Automation.RemoteException
+*** Please tell me who you are.
+System.Management.Automation.RemoteException
+Run
+System.Management.Automation.RemoteException
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+System.Management.Automation.RemoteException
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+System.Management.Automation.RemoteException
+fatal: unable to auto-detect email address (got 'saleh@LAPTOP-6A42EPD9.(none)')
+error: No such remote: 'origin'
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/saleh-b-90-hub/ucrasmotors-site.git'
+=== verify raw index.html ===
+The remote server returned an error: (404) Not Found.
+=== npx vercel --prod ===
+The term 'npx' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+=== probe vercel.app ===
+https://ucrasmotors-site.vercel.app/ The remote server returned an error: (404) Not Found.
+https://ucarsmotors-site.vercel.app/ The remote server returned an error: (404) Not Found.
+DONE
+
+=== PHASE2: Node LTS ===
+
+   - 
+   \ 
+                                                                                                                        
+Found Node.js (LTS) [OpenJS.NodeJS.LTS] Version 24.15.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  ÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  1024 KB / 30.9 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  9.00 MB / 30.9 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  16.0 MB / 30.9 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆÔûÆ  23.9 MB / 30.9 MB
+  ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûê  30.9 MB / 30.9 MB
+Successfully verified installer hash
+Starting package install...
+The installer will request to run as administrator. Expect a prompt.
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+Successfully installed
+
+=== PHASE2: git identity + commit + push ===

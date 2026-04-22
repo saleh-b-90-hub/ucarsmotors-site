@@ -1,0 +1,6 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="28" fill="#0A0A0C"/>
+  <circle cx="120" cy="120" r="84" stroke="#C8A64A" stroke-width="4"/>
+  <path d="M74 126L100 96L120 118L140 96L166 126" stroke="#E3CB83" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="168" text-anchor="middle" fill="#F4F4F6" font-size="20" font-family="Arial, sans-serif" letter-spacing="2">U CARS</text>
+</svg>
